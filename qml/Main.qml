@@ -8,7 +8,7 @@ import Morph.Web 0.1
 MainView {
     id: root
     objectName: 'mainView'
-    applicationName: 'ucopay.nanux'
+    applicationName: 'ucopay.nanuc'
     automaticOrientation: true
 
     width: units.gu(45)
