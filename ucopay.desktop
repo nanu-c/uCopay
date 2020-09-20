@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=uCopay
+Exec=qmlscene --scaling %U Main.qml
+Icon=www/assets/img/app/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-SymbolicIcon=www/assets/img/app/logo.svg
