@@ -1,5 +1,5 @@
 {
-    "name": "ucopay.nanux",
+    "name": "ucopay.nanuc",
     "description": "uCopay is a secure bitcoin wallet platform for both desktop and mobile devices. Copay uses Bitcore Wallet Service (BWS) for peer synchronization and network interfacing.",
     "architecture": "@CLICK_ARCH@",
     "title": "Copay",
