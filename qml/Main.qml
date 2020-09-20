@@ -10,7 +10,8 @@ MainView {
     objectName: 'mainView'
     applicationName: 'ucopay.nanuc'
     automaticOrientation: true
-
+    anchorToKeyboard: true
+    
     width: units.gu(45)
     height: units.gu(75)
 
